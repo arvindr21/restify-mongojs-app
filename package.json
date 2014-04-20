@@ -1,0 +1,16 @@
+{
+  "name": "restifyMyApp",
+  "version": "1.0.0",
+  "description": "An example to showcase a REST server with MongoDB (Mongolab) & Restify",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arvind Ravulavaru",
+  "license": "MIT",
+  "url" : "http://thejackalofjavascript.com",
+  "devDependencies": {
+    "restify": "^2.7.0",
+    "mongojs": "^0.12.1"
+  }
+}
